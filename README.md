@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hacyer
 - 👀 I’m interested in Golang,C#,Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on better ande become a Golang Programmer
 
 <!---
 Hacyer/Hacyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
