@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hacyer
-- 👀 I’m interested in Golang,C#,Python
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in C#,Javascript,Python
+- 🌱 I’m currently learning Javascript,C#
 - 💞️ I’m looking to collaborate on better ande become a super Programmer
 
 <!---
